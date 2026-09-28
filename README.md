@@ -1,5 +1,3 @@
-# BallTrack Releases
-
 # BallTrack Releases ⚾
 
 ¡Bienvenido al repositorio oficial de descargas de **BallTrack**!
