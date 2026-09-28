@@ -1,11 +1,13 @@
 # BallTrack Releases
 
-Este repositorio está destinado **exclusivamente** a almacenar los archivos compilados listos para distribución (Releases) de la aplicación BallTrack Desktop. 
+# BallTrack Releases ⚾
 
-**NO CONTIENE CÓDIGO FUENTE (SRC)**. 
-De esta manera, la página web oficial (`BallTrackWEB`) puede consumir el archivo `releases.json` o clonar directamente de este repositorio sin exponer los modelos ONNX/NCNN o la lógica privada de la aplicación base.
+¡Bienvenido al repositorio oficial de descargas de **BallTrack**!
 
-## Estructura
+Aquí encontrarás las últimas versiones listas para instalar de nuestro simulador y analizador de béisbol de última generación. Visita nuestra página oficial para aprender más sobre cómo BallTrack está revolucionando la tecnología en el deporte.
 
-- `releases.json`: Archivo con los metadatos de las versiones disponibles (usado por la web para los enlaces de descarga).
-- Archivos `.zip` o `.exe` compilados (ej. `BallTrack_v1.0.0_windows_x64.zip`).
+## Descargas
+Para obtener la versión más reciente, por favor dirígete a nuestra [Página Web Oficial](#) y visita la sección de descargas.
+
+---
+*BallTrack - Eleva tu juego.*
